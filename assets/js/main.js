@@ -25,21 +25,21 @@ const pantalones = [];
 
 //Polos
 
-remeras.push(new Producto("Polo Lacoste", 1, 2000, "blanco", 30));
-remeras.push(new Producto("Polo Label", 2, 1400, "negro", 10));
-remeras.push(new Producto("Polo Montagne", 3, 1400, "negro", 20));
+remeras.push(new Producto("Polo Lacoste Blanco", 1, 2000, "blanco", 30));
+remeras.push(new Producto("Polo Label Negro", 2, 1400, "negro", 10));
+remeras.push(new Producto("Polo Montagne Negro", 3, 1400, "negro", 20));
 
-//Poleras
+//Buzos
 
-buzos.push(new Producto("Polera Cuello Alto", 5, 4000, "Negro", 20));
-buzos.push(new Producto("Polera Deportiva", 6, 3800, "Negro", 40));
-buzos.push(new Producto("Polera Blanca", 7, 3800, "Negro", 40));
+buzos.push(new Producto("Buzos Cuello Alto Negro", 5, 4000, "Negro", 20));
+buzos.push(new Producto("Buzos Deportiva Negro", 6, 3800, "Negro", 40));
+buzos.push(new Producto("Buzos Blanca", 7, 3800, "blanco", 40));
 
 //Pantalones
 
-pantalones.push(new Producto("Jogger Gris", 8, 2900, "Negro", 10));
-pantalones.push(new Producto("Jogger Azul Marino", 9, 1000, "Negro", 10));
-pantalones.push(new Producto("Pantalón Deportivo", 9, 1000, "Negro", 10));
+pantalones.push(new Producto("Jogger Gris", 8, 2900, "Gris", 10));
+pantalones.push(new Producto("Jogger Azul Marino", 9, 1000, "Azul Marino", 10));
+pantalones.push(new Producto("Pantalón Deportivo Negro", 9, 1000, "Negro", 10));
 
 
 // Recorro los arrays para mostrarle los productos al usuario
