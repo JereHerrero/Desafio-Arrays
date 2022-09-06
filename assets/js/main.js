@@ -39,7 +39,7 @@ buzos.push(new Producto("Buzo Blanca", 7, 3800, "blanco", 40));
 
 pantalones.push(new Producto("Jogger Gris", 8, 2900, "Gris", 10));
 pantalones.push(new Producto("Jogger Azul Marino", 9, 1000, "Azul Marino", 10));
-pantalones.push(new Producto("Pantalón Deportivo Negro", 9, 1000, "Negro", 10));
+pantalones.push(new Producto("Pantalón Deportivo Negro", 10, 1000, "Negro", 10));
 
 
 // Recorro los arrays para mostrarle los productos al usuario
