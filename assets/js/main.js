@@ -31,9 +31,9 @@ remeras.push(new Producto("Polo Montagne Negro", 3, 1400, "negro", 20));
 
 //Buzos
 
-buzos.push(new Producto("Buzos Cuello Alto Negro", 5, 4000, "Negro", 20));
-buzos.push(new Producto("Buzos Deportiva Negro", 6, 3800, "Negro", 40));
-buzos.push(new Producto("Buzos Blanca", 7, 3800, "blanco", 40));
+buzos.push(new Producto("Buzo Cuello Alto Negro", 5, 4000, "Negro", 20));
+buzos.push(new Producto("Buzo Deportiva Negro", 6, 3800, "Negro", 40));
+buzos.push(new Producto("Buzo Blanca", 7, 3800, "blanco", 40));
 
 //Pantalones
 
